@@ -53,7 +53,8 @@
             margin: 20px auto;
         }
 
-        .card .image img {
+        .card .image img {![Uploading image.png…]()
+
             width: 100%;
             border-radius: 10px;
         }
